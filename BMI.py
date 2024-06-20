@@ -12,3 +12,4 @@ if s == 3:
     print(a * b)
 if s == 4:
     print( a / b)
+print("thankyou keep visiting ")
